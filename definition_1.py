@@ -6,7 +6,7 @@ class menu:
         self.chat_id = chat_id
         self.bot = bot
         
-    def gen_ngrok(self):
+    def get_ngrok(self):
         req = requests.get('http://127.0.0.1:4040/api/tunnels')
         soup = BeautifulSoup(req.text, 'lxml')
         tunnelsjson = json.loads(soup.find('p').text)

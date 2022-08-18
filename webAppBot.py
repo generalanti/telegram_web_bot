@@ -1,3 +1,4 @@
+from tkinter import Y
 from urllib import request
 import requests
 from definition_1 import menu 
@@ -13,8 +14,10 @@ for x in r['result']:
     print(update_id)
     if 'message' in x:
         if x['message']['text'] == '/inline':
-            print()
+            chat_id = x['message']['chat']['id']
+            main = menu(chat_id, bot)
             main.inline()
+            
     
     # delete the message
     requests.get('https://api.telegram.org/bot%s/getUpdates&offset=%s'%(bot,int(update_id)+1))
