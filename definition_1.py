@@ -15,4 +15,5 @@ class menu:
     def inline(self):
         self.get_ngrok()
         text = 'Web Apps'
-        reqiests.get('https://api.telegram.org/bot%s/sendMessage&chat_id=%s&text=%s&reply_markup={"inline_keyboard":[{"text":"My web App","web_app":{"url":"%s/oxcash.php"}}]}'%(self.bot, self.chat_id, text, self.web_url))
+        requests.get('https://api.telegram.org/bot%s/sendMessage?chat_id=%s&text=%s&reply_markup=\
+            {"inline_keyboard":[[{"text":"My Web App","web_app":{"url":"%s/oxcash.php"}}]]}'%(self.bot, self.chat_id, text, self.web_url))

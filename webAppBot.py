@@ -1,6 +1,6 @@
 from urllib import request
 import requests
-import menu from definition_1
+from definition_1 import menu 
 
 #'http://t.me/CashbackExpress_bot'
 bot = "5342176536:AAEknzzBVOeMu31IaPUogLs-98cpDFnPjYA"
