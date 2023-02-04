@@ -2,6 +2,7 @@ BOT_USERNAME = "Design Fury"
 BOT_NAME = "designfurybot"
 BOT_TOKEN = "5692554919:AAEDq6gU8MRWmUOq9YMWx429_DEgItAdYKo"
 PAYMENTS_TOKEN = "381764678:TEST:49420"
+URL = "https://generalanti.github.io/"
 
 
 #Принято! Ваши тестовые настройки ЮKassa:

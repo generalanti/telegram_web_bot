@@ -1,7 +1,10 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, WebAppInfo, InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.utils.callback_data import CallbackData
+from config import URL
 
-web_app = WebAppInfo(url="https://ideahold.github.io/")
+
+web_app = WebAppInfo(url=URL)
+
 
 keyboard = ReplyKeyboardMarkup(
     keyboard=[
