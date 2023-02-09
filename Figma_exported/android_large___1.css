@@ -1,0 +1,297 @@
+/*
+	@name android_large___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 588px; width: 588px; height: 800px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_android_large___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 588px;
+	height: 800px;
+}
+
+#_bg__android_large___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 588px;
+	height: 800px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_2 {
+	top: 89px;
+	left: 249px;
+	width: 256px;
+	height: 58px;
+	background:rgba(217,217,217,1);
+}
+
+
+#textbox_1 {
+	top: 109px;
+	left: 301px;
+	width: 161px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_8 {
+	top: 208px;
+	left: 249px;
+	width: 256px;
+	height: 58px;
+	background:rgba(217,217,217,1);
+}
+
+
+#textbox_2 {
+	top: 228px;
+	left: 301px;
+	width: 161px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_9 {
+	top: 325px;
+	left: 249px;
+	width: 256px;
+	height: 58px;
+	background:rgba(217,217,217,1);
+}
+
+
+#textbox_3 {
+	top: 345px;
+	left: 301px;
+	width: 161px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_10 {
+	top: 442px;
+	left: 249px;
+	width: 256px;
+	height: 58px;
+	background:rgba(217,217,217,1);
+}
+
+
+#textbox_4 {
+	top: 462px;
+	left: 301px;
+	width: 161px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_11 {
+	top: 559px;
+	left: 249px;
+	width: 256px;
+	height: 58px;
+	background:rgba(217,217,217,1);
+}
+
+
+#textbox_5 {
+	top: 579px;
+	left: 301px;
+	width: 161px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_12 {
+	top: 676px;
+	left: 249px;
+	width: 256px;
+	height: 58px;
+	background:rgba(217,217,217,1);
+}
+
+
+#textbox_6 {
+	top: 696px;
+	left: 301px;
+	width: 161px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_7 {
+	top: 659px;
+	left: 69px;
+	width: 143px;
+	height: 92px;
+	background:rgba(217,217,217,1);
+}
+
+
+#btn_6 {
+	top: 696px;
+	left: 98px;
+	width: 94px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_6 {
+	top: 542px;
+	left: 69px;
+	width: 143px;
+	height: 92px;
+	background:rgba(217,217,217,1);
+}
+
+
+#btn_5 {
+	top: 579px;
+	left: 98px;
+	width: 94px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_5 {
+	top: 425px;
+	left: 69px;
+	width: 143px;
+	height: 92px;
+	background:rgba(217,217,217,1);
+}
+
+
+#btn_4 {
+	top: 462px;
+	left: 98px;
+	width: 94px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_4 {
+	top: 308px;
+	left: 69px;
+	width: 143px;
+	height: 92px;
+	background:rgba(217,217,217,1);
+}
+
+
+#btn_3 {
+	top: 345px;
+	left: 98px;
+	width: 94px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_3 {
+	top: 191px;
+	left: 69px;
+	width: 143px;
+	height: 92px;
+	background:rgba(217,217,217,1);
+}
+
+
+#btn_2 {
+	top: 228px;
+	left: 98px;
+	width: 94px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_1 {
+	top: 72px;
+	left: 69px;
+	width: 143px;
+	height: 92px;
+	background:rgba(217,217,217,1);
+}
+
+
+#btn_1 {
+	top: 109px;
+	left: 98px;
+	width: 94px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
